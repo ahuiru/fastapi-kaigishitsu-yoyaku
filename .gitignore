@@ -1,0 +1,4 @@
+__pycache__/
+spl_app/__pycache__/
+sql_app.db
+
